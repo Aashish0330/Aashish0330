@@ -13,12 +13,13 @@
 ---
 
 ## **📌 Languages and Tools:**  
+<p align="center"><a target="_blank" rel="noreferrer">
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/Tableau-Emblem.png" width="70">
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/Python-Dark.svg" width="70">
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/R-Dark.svg" width="70">
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/SciKitLearn-Light.svg" width="70">
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/MySQL-Dark.svg" width="70">
-
+</p>
 
 ---
 
