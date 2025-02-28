@@ -13,7 +13,7 @@
 ---
 
 ## **📌 Languages and Tools:**  
-![alt text](http://url/to/MySQL-Dark.svg)
+![alt text]![Alt text](MySQL-Dark.svg)
 
 ---
 
