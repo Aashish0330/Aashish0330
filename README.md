@@ -13,7 +13,11 @@
 ---
 
 ## **📌 Languages and Tools:**  
-![alt text]![Alt text](MySQL-Dark.svg)
+(MySQL-Dark.svg)
+(Python-Dark.svg)
+(R-Dark.svg)
+(SciKitLearn-Light.svg)
+(Tableau-Emblem.png)
 
 ---
 
