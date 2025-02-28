@@ -13,19 +13,7 @@
 ---
 
 ## **📌 Languages and Tools:**  
-<p align="center"><a target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50">  
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="80">   
-<img src="https://github.com/Aashish0330/Aashish0330/blob/main/pandas-original-wordmark.svg" width="50">   
-<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="70">
-<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="70"> 
-<img src="https://github.com/Aashish0330/Aashish0330/blob/main/Tableau-Emblem.png" width="70">
-<img src="https://github.com/Aashish0330/Aashish0330/blob/main/snowflake-png.webp" width="50"> 
-<img src="https://github.com/Aashish0330/Aashish0330/blob/main/mysql-768.png" width="60">
-<img src="https://github.com/Aashish0330/Aashish0330/blob/main/631b45e07d98cfb364e5951f_github-white.png" width="50">
-</p>
-
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) (https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL] ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ---
 
 ### 📬 **Let's Connect!**  
