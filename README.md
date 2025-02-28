@@ -13,9 +13,9 @@
 ---
 
 ## **📌 Languages and Tools:**  
-(MySQL-Dark.svg)
-(Python-Dark.svg)
-(R-Dark.svg)
+[Alt text](MySQL-Dark.svg)
+[Alt text](Python-Dark.svg)
+[Alt text](R-Dark.svg)
 (SciKitLearn-Light.svg)
 (Tableau-Emblem.png)
 
