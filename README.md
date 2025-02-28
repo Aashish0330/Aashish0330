@@ -28,7 +28,3 @@
 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
 🌎 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
 
----
-
-This format keeps things **engaging, concise, and visually appealing** while ensuring **recruiters quickly spot relevant skills and expertise**. 🚀
-
