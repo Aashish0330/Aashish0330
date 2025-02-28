@@ -13,7 +13,7 @@
 ---
 
 ## **📌 Languages and Tools:**  
-[Alt text](MySQL-Dark.svg)
+<img src="https://github.com/yourusername/repositoryname/blob/main/path/to/Tableau-Emblem.png" width="200">
 [Alt text](Python-Dark.svg)
 [Alt text](R-Dark.svg)
 (SciKitLearn-Light.svg)
