@@ -18,7 +18,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="80">   
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/pandas-original-wordmark.svg" width="50">   
-<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="70"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="70"> 
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/Tableau-Emblem.png" width="70">
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/snowflake-png.webp" width="50"> 
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/mysql-768.png" width="60">
