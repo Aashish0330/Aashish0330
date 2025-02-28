@@ -17,7 +17,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50">  
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="50">
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/Tableau-Emblem.png" width="70">
-<img src="https://github.com/Aashish0330/Aashish0330/blob/main/mysql-768.png" width="50">
+<img src="https://github.com/Aashish0330/Aashish0330/blob/main/mysql-768.png" width="60">
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/631b45e07d98cfb364e5951f_github-white.png" width="50">
 </p>
 
