@@ -13,7 +13,7 @@
 ---
 
 ## **📌 Languages and Tools:**  
-<img src="https://github.com/yourusername/repositoryname/blob/main/path/to/Tableau-Emblem.png" width="200">
+<img src="https://github.com/Aashish0330/Aashish0330/blob/main/path/to/Tableau-Emblem.png" width="20">
 [Alt text](Python-Dark.svg)
 [Alt text](R-Dark.svg)
 (SciKitLearn-Light.svg)
