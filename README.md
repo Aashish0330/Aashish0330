@@ -16,7 +16,7 @@
 <p align="center"><a target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50">  
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="70">   
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="70">   
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/pandas-original-wordmark.svg" width="50">   
 <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="70"> 
 <img src="https://github.com/Aashish0330/Aashish0330/blob/main/Tableau-Emblem.png" width="70">
