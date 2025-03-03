@@ -3,10 +3,9 @@
 🚀 **Data Enthusiast | Problem Solver | AI & Analytics Explorer**  
 
 - **Pursuing MS in Data Science @ Drexel University**  
-- **Experienced in Data Science & Machine Learning**, turning raw data into actionable insights  
 - **Proficient in Python, SQL, Snowflake, GitHub, Tableau, and Power BI**  
 - **Building scalable ETL pipelines and optimizing SQL queries for efficient data retrieval**  
-- **Passionate about Data Visualization & Storytelling**, making insights accessible  
+- **Passionate about Data Visualization**, turning data into clear insights. 
 - **Exploring Deep Learning, NLP, and AI-driven decision-making**  
 - **Seeking opportunities to drive innovation in data-driven teams**  
 
