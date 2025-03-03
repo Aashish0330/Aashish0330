@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sai Aashish Pokuri  
 
-🚀 **Data Enthusiast | Problem Solver | AI & Analytics Explorer**  
+🚀 **Data Enthusiast | Problem Solver |  Exploring Opportunities**  
 
 - **Pursuing MS in Data Science @ Drexel University**  
 - **Proficient in Python, SQL, Snowflake, GitHub, Tableau, and Power BI**  
